@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 23:25:15 at https://beta.nextjs.org/docs +*.css +*.js -*[name].github.com/* -*[name].*[name]github*[name].*[name]/* -https://github.com//* -*github* -*[name].vercel.com/* -*[name].*[name]vercel*[name].*[name]/* -https://vercel.com//* -*vercel* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0c5H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://beta.nextjs.org/docs -O1 "C:\My Web Sites\NextJS-13.2-DOCS" +*.css +*.js -*[name].github.com/* -*[name].*[name]github*[name].*[name]/* -https://github.com//* -*github* -*[name].vercel.com/* -*[name].*[name]vercel*[name].*[name]/* -https://vercel.com//* -*vercel* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:25:44	Warning: 	Permanent Redirect for https://beta.nextjs.org/docs/
+23:25:44	Warning: 	File has moved from https://beta.nextjs.org/docs/ to /docs
+23:26:33	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/api-reference/next/router (from https://beta.nextjs.org/docs/upgrade-guide)
+23:26:33	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/api-reference/preview-data (from https://beta.nextjs.org/docs/upgrade-guide)
+23:26:33	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/server-components/introduction (from https://beta.nextjs.org/docs/upgrade-guide)
+23:26:33	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/api-reference/next.config (from https://beta.nextjs.org/docs/app-directory-roadmap)
+23:26:42	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/optimizing/image (from https://beta.nextjs.org/docs/api-reference/components/image)
+23:26:42	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/api-reference/next.config.js/headers (from https://beta.nextjs.org/docs/api-reference/components/image)
+23:26:42	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/advanced-features/security-headers (from https://beta.nextjs.org/docs/api-reference/components/image)
+23:26:43	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/basic-features/environment-variables (from https://beta.nextjs.org/docs/api-reference/edge)
+23:26:43	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/v12/upgrade-guide/codemods (from https://beta.nextjs.org/docs/upgrade-guide/version-11)
+23:26:52	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/advanced-features/react-18/server-components (from https://beta.nextjs.org/blog/next-12-2)
+23:27:02	Error: 	"Error when decompressing" (-1) at link https://beta.nextjs.org/blog (from https://beta.nextjs.org/blog/next-12-2)
+23:27:02	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/blog: Permission denied
+23:27:03	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/foundations/about-nextjs: Permission denied
+23:27:07	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/foundations/from-javascript-to-react: Permission denied
+23:27:08	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/foundations/from-react-to-nextjs: Permission denied
+23:27:10	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/foundations/how-nextjs-works: Permission denied
+23:27:15	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/create-nextjs-app: Permission denied
+23:27:16	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/navigate-between-pages: Permission denied
+23:27:20	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/assets-metadata-css: Permission denied
+23:27:22	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/data-fetching: Permission denied
+23:27:24	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/dynamic-routes: Permission denied
+23:27:25	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/api-routes: Permission denied
+23:27:26	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/basics/deploying-nextjs-app: Permission denied
+23:27:28	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/seo/introduction-to-seo: Permission denied
+23:27:29	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/seo/crawling-and-indexing: Permission denied
+23:27:31	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/seo/rendering-and-ranking: Permission denied
+23:27:31	Error: 	"Error when decompressing" (-1) at link https://beta.nextjs.org/learn/seo/web-performance (from https://beta.nextjs.org/learn/seo/web-performance/cls)
+23:27:31	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/seo/web-performance: Permission denied
+23:27:34	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/seo/improve: Permission denied
+23:27:35	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/seo/monitor: Permission denied
+23:27:36	Error: 	Unable to save file C:/My Web Sites/NextJS-13.2-DOCS/beta.nextjs.org/learn/excel/typescript: Permission denied
+23:28:10	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/api-routes/introduction (from https://beta.nextjs.org/learn/basics/create-nextjs-app)
+23:29:19	Error: 	"Not Found" (404) at link https://beta.nextjs.org/learn/basics/navigate-between-pages/authors/me.js (from https://beta.nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs)
+23:29:19	Error: 	"Not Found" (404) at link https://beta.nextjs.org/learn/basics/navigate-between-pages/pages/authors/me.js (from https://beta.nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs)
+23:29:19	Error: 	"Not Found" (404) at link https://beta.nextjs.org/learn/basics/navigate-between-pages/routes/authors/me.js (from https://beta.nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs)
+23:29:49	Error: 	"Not Found" (404) at link https://beta.nextjs.org/docs/advanced-features/custom-error-page (from https://beta.nextjs.org/learn/basics/dynamic-routes/dynamic-routes-details)
+23:29:49	Error: 	"Not Found" (404) at link https://beta.nextjs.org/basic-features/image-optimization (from https://beta.nextjs.org/learn/seo/improve/images)
+23:29:50	Warning: 	Link https://github.com/vercel/next-learn/blob/0972c7fd794d5b16e507cdb224536a15b9276638/basics/basics-final/public/images/profile.jpg not scanned (follow robots meta tag)
+23:29:50	Error: 	"Not Found" (404) at link https://github.com/vercel/next-learn/blob/{{ urlEncodedRefName }}/basics/basics-final/public/images/profile.jpg (from https://github.com/vercel/next-learn/blob/master/basics/basics-final/public/images/profile.jpg)
+23:29:52	Warning: 	Retry after error -4 (Connect Error) at link https://raw.githubusercontent.com/vercel/next-learn/master/basics/basics-final/public/images/profile.jpg (from https://github.com/vercel/next-learn/blob/master/basics/basics-final/public/images/profile.jpg)
+23:29:57	Warning: 	Link https://github.com/vercel/next-learn/blob/f3a215a416c7b18a370ce899348b38de799e278c/basics/basics-final/public/images/profile.jpg not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 45 seconds : 550 links scanned, 527 files written (53957305 bytes overall) [26853834 bytes received at 94223 bytes/sec], 33196756 bytes transferred using HTTP compression in 432 files, ratio 15%, 19.0 requests per connection
+(38 errors, 5 warnings, 0 messages)

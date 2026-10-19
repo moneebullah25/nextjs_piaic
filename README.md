@@ -29,3 +29,7 @@ npm run dev   # http://localhost:3000
 ```
 
 Other projects work the same way; use the lockfile present in each folder (npm, pnpm or yarn). Projects needing API keys (`hackathon/`, `commerce/`, CMS lessons) require your own values; copy `.env.example` where one exists.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Sub-projects that ship their own license (for example the Next.js Commerce copies) keep it.
